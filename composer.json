@@ -1,5 +1,5 @@
 {
-    "name": "be-park/socialite-azure-oauth",
+    "name": "blockshiftnetwork/socialite-azure-oauth",
     "description": "Allow multi connection to azure AD using socialite of Laravel",
     "type": "library",
     "license": "MIT",
@@ -12,7 +12,11 @@
         {
             "name": "Jérémy Dillenbourg",
             "email": "jeremy@dillenbourg.be"
-        }
+        },
+        {
+            "name": "Alexander Rodriguez",
+            "email": "alexander@marketingfino.com.ve"
+        }        
     ],
     "autoload": {
         "psr-4": {
